@@ -1,0 +1,5 @@
+Comandos basicos (PT):
+https://comandosgit.github.io/
+
+Comandos basicos do site do Git (EN):
+https://git-scm.com/book/en/v2
